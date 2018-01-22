@@ -16,4 +16,4 @@
 ![image](https://github.com/zanhaofang/cloudgo-io/blob/master/pics/pic3.jpg)
 
 访问http://localhost:8080/api/unknown 就可以得到一个501 unknown返回：
-![image]()
+![image](https://github.com/zanhaofang/cloudgo-io/blob/master/pics/pic4.jpg)
