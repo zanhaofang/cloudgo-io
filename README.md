@@ -10,7 +10,7 @@
 ![image](https://github.com/zanhaofang/cloudgo-io/blob/master/pics/pic1.jpg)
 
 访问http://localhost:8080/register 会返回一个注册的表单如下：
-![image]()
+![image](https://github.com/zanhaofang/cloudgo-io/blob/master/pics/pic2.jpg)
 
 填写好表单就可以得到一个返回的表格：
 ![image]()
