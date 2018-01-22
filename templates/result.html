@@ -1,20 +1,21 @@
 <html>
 <head>
-    <link rel="stylesheet" href="css/main.css"/>
+<title></title>
 </head>
 <body>
-    Result
-    <div id="content-box">
-        <table border="1">
-            <tr>
-                <th>Username</th>
-                <th>{{.Username}}</th>
-            </tr>
-            <tr>
-                <td>Password</td>
-                <td>{{.Password}}</td>
-            </tr>
-        </table>
-    </div>
+<table border="1">
+    <tr>
+        <th>username</th>
+		<th>password</th>
+        <th>phone</th>
+		<th>email</th>
+    </tr>
+    <tr>
+        <td>{{.Username}}</td>
+		<td>{{.Password}}</td>
+        <td>{{.Phone}}</td>
+		<td>{{.Email}}</td>
+    </tr>
+</table>    
 </body>
 </html>
