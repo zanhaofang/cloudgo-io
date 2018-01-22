@@ -7,7 +7,7 @@
 * 对unknown给出开发中的提示
 ## 测试结果
 浏览器访问localhost:8080/static/
-![image]()
+![image](https://github.com/zanhaofang/cloudgo-io/blob/master/pics/pic1.jpg)
 
 访问http://localhost:8080/register 会返回一个注册的表单如下：
 ![image]()
