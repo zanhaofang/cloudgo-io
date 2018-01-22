@@ -5,3 +5,15 @@
 * 支持简单js访问
 * 提交表单，输出表格
 * 对unknown给出开发中的提示
+## 测试结果
+浏览器访问localhost:8080/static/
+![image]()
+
+访问http://localhost:8080/register 会返回一个注册的表单如下：
+![image]()
+
+填写好表单就可以得到一个返回的表格：
+![image]()
+
+访问http://localhost:8080/api/unknown 就可以得到一个501 unknown返回：
+![image]()
